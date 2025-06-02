@@ -3,8 +3,8 @@
 # Branches
 This repository consists of 2 branches:
 
-1. basic – A minimal Nextjs setup with TypeScript.
-2. with-shadcn – All features of basic and shadcn component library. (You're currently on this branch.)
+1. main – A minimal Nextjs setup with TypeScript + Shadcn UI. (You're currently on this branch.)
+2. with-shadcn – All features of basic and shadcn component library.
 
 ## Description
 
@@ -22,6 +22,10 @@ This project is a quickstart for next.js with typescript.
 - **Multiple Env Support**: Adapt to any environment: local, dev, stage, or prod.
 - **VS code settings**: Save time and keystrokes with auto-format and import sort.
 - **ShadcnUI**: Craft beautiful UIs with this comprehensive component library.
+- **Redux Toolkit**: Simplify global state management with Redux Toolkit's powerful and easy-to-use API.
+- **Zod**: Ensure data integrity with Zod's robust schema validation.
+- **React Hook Form**: Build performant and flexible forms with minimal code using React Hook Form.
+- **date-fns**: Handle dates effortlessly with date-fns' comprehensive utility functions.
 
 ## Installation
 
